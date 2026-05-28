@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+Library/__init__.py
+Library/calculator.py
+thashi.egg-info/PKG-INFO
+thashi.egg-info/SOURCES.txt
+thashi.egg-info/dependency_links.txt
+thashi.egg-info/top_level.txt
