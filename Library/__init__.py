@@ -1,1 +1,1 @@
-from .calculator import subtract 
+from .calculator import Subtract 
